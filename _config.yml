@@ -71,5 +71,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://github.com/mengda1027/mengda1027.github.io
-  branch:master
+  repo:https://github.com/mengda1027/Blog.git
+  branch:gh-pages
